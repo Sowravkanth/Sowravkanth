@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently pursuing B.Tech as an UG at SRM Institute of Science and Technology , Ramapuram in the 2024 - 2028 Batch.  I have interests in hardware fields like VLSI and Embedded Systems<br>
+VLSI and Semiconductor-focused ECE (Data Science) student working on embedded intelligence, RF communication systems, and AI-powered engineering platforms. Interested in hardware–software co-design, edge AI, and data-centric system development.<br>
 
 
 ## 🌐 Socials:
