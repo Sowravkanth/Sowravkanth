@@ -1,9 +1,9 @@
 # About Me :
-Electronics and Communication Engineering (Data Science) undergraduate with academic focus on VLSI design, semiconductor systems, embedded engineering, artificial intelligence, and data analytics. 
+Electronics and Communication Engineering (Data Science) undergraduate focused on VLSI design, semiconductor systems, embedded engineering, and AI-driven hardware. 
 
-Actively developing hardware–software integrated projects involving RF communication, IoT platforms, and AI-driven systems, with experience in ESP32/LoRa architectures, data processing workflows, and edge intelligence. 
+Working on hardware–software co-design involving RF communication, edge intelligence, and data-centric embedded platforms. 
 
-Interested in building scalable semiconductor and intelligent embedded solutions through practical engineering and research-oriented development.<br>
+Interested in building scalable intelligent systems at the intersection of semiconductor technology, artificial intelligence, and real-world engineering.<br>
 
 
 ## Socials :
